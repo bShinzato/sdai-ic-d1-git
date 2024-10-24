@@ -23,11 +23,11 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 1. [`x`] Create an `index.html` file.
 2. [`x`] In line 1, type an exclamation point, wait to see the prompt, then hit `enter`. Run `git status`. Observe the output.
-3. [ ] Stage your work with `git add .` Run `git status` once again to see the difference between unstaged work in step 2 and stage work now.
-4. [ ] Run `git commit -m "Created index.html"`.
-5. [ ] Add a `h1` header with the text "Hello World".
-6. [ ] run `git add .` to stage the work, and the commit it using `git commit -m "Added main header"`.
-7. [ ] run `git push origin main` to push your work to your repository on github. Refresh the page and you should now see your `index.html` file with your additions on the page.
+3. [`x`] Stage your work with `git add .` Run `git status` once again to see the difference between unstaged work in step 2 and stage work now.
+4. [`x`] Run `git commit -m "Created index.html"`.
+5. [`x`] Add a `h1` header with the text "Hello World".
+6. [`x`] run `git add .` to stage the work, and the commit it using `git commit -m "Added main header"`.
+7. [`x`] run `git push origin main` to push your work to your repository on github. Refresh the page and you should now see your `index.html` file with your additions on the page.
 
 ---
 
